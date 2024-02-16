@@ -4,3 +4,5 @@ Calc calc = new Calc();
 
 Console.WriteLine("Add Call");
 calc.Add(12, 45);
+Console.WriteLine("Multi Call");
+calc.Multi(12.5, 13.5);
